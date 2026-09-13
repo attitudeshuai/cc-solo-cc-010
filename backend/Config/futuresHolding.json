@@ -1,0 +1,5 @@
+[
+  {"contract_code": "IM2509", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息1"},
+  {"contract_code": "IC2510", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息2"},
+  {"contract_code": "IH2510", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息3"}
+]

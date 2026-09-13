@@ -1,0 +1,5 @@
+[
+  {"code": "600000", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息1"},
+  {"code": "600001", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息2"},
+  {"code": "600002", "open_date": "20251212", "posi_qty": "100", "avail_qty": "80", "remark_info": "这是备注信息3"}
+]

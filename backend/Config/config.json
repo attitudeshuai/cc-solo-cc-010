@@ -1,0 +1,22 @@
+[
+  {
+    "table_name": "spotHolding",
+    "fields": [
+      {"en_name": "code", "zh_name": "代码", "default_value": "", "is_modify": false, "is_show": true},
+      {"en_name": "open_date", "zh_name": "开仓日期", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "posi_qty", "zh_name": "持仓数量", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "avail_qty", "zh_name": "可用数量", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "remark_info", "zh_name": "备注", "default_value": "", "is_modify": false, "is_show": false}
+    ]
+  },
+  {
+    "table_name": "futuresHolding",
+    "fields": [
+      {"en_name": "contract_code", "zh_name": "代码", "default_value": "", "is_modify": false, "is_show": true},
+      {"en_name": "open_date", "zh_name": "开仓日期", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "posi_qty", "zh_name": "持仓数量", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "avail_qty", "zh_name": "可用数量", "default_value": "0", "is_modify": true, "is_show": true},
+      {"en_name": "remark_info", "zh_name": "备注", "default_value": "", "is_modify": false, "is_show": false}
+    ]
+  }
+]

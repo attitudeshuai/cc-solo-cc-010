@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 快照前的凭据与依赖排除（生成）
+.env
+.env.local
+node_modules/
+dist/
+__pycache__/
+.venv/
